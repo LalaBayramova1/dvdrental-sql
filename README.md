@@ -1,0 +1,2 @@
+# dvdrental-sql
+proje-dvdrental
